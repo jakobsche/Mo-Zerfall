@@ -1,2 +1,2 @@
 # Mo-Zerfall
-Aufgabe zum Radioaktiven Zerfall / Zerfallsgesetz mit Lösung
+Aufgabe zum radioaktiven Zerfall / Zerfallsgesetz mit Lösung
